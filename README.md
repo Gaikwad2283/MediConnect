@@ -17,9 +17,9 @@ Ambulance Tracking: GPS integrated with Google Maps API
 
 #Setup Instructions
 Clone the repository:
-``
+```
 git clone https://github.com/yourusername/telemedicine-platform.git
-``
+```
 cd telemedicine-platform
 Install dependencies:
 
