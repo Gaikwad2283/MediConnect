@@ -20,37 +20,34 @@ Clone the repository:
 ```
 git clone https://github.com/yourusername/telemedicine-platform.git
 ```
+
 cd telemedicine-platform
 Install dependencies:
-
-bash
-Copy code
+```
 npm install
+```
+
 Configure environment variables:
 
 Create a .env file in the root directory and specify the following variables:
 
-env
-Copy code
+```
+
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/telemedicine
+```
 Replace mongodb://localhost:27017/telemedicine with your MongoDB connection URI.
 
 Start the server:
 
-bash
-Copy code
+```
 npm start
+```
 Access the application:
 
-Open a web browser and navigate to http://localhost:3000.
+Open a web browser and navigate to 
 
-Contribution Guidelines
-Contributions to improve the project are welcome! Please follow these steps:
+```
+http://localhost:3000.
+```
 
-Fork the repository.
-Create a new branch (git checkout -b feature/improvement).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/improvement).
-Create a new Pull Request.
