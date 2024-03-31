@@ -8,12 +8,12 @@ Video Consultation: Real-time video consultations allow patients to communicate 
 Ambulance Tracking System: GPS technology integrated with Google Maps API enables tracking of ambulance locations in real-time.
 
 # Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js
-Framework: Express.js
-Database: MongoDB
-Real-time Communication: Socket.IO
-Ambulance Tracking: GPS integrated with Google Maps API
+# Frontend: HTML, CSS, JavaScript
+# Backend: Node.js
+# Framework: Express.js
+# Database: MongoDB
+# Real-time Communication: Socket.IO
+# Ambulance Tracking: GPS integrated with Google Maps API
 
 # Setup Instructions
 Clone the repository:
