@@ -1,10 +1,9 @@
 # MediConnect
-This is web-based platform that connects patients with specialists across different geographical locations. It gives timely access to healthcare services while minimizing the need for physical visits. It supports video consultations, while adhering to strict privacy and data protection regulations.
+Problem Statement: Create a secure web platform for healthcare institutions to streamline the appointment scheduling process, optimize resource allocation, and minimize patient wait times. The solution should integrate with existing electronic health record systems, prioritize appointments based on urgency, and offer patients the flexibility to book appointments online.
 
 # Features
 User Registration and Authentication: Patients and specialists can register and log in securely.
 Appointment Booking System: Patients can schedule appointments with specialists based on their availability.
-Video Consultation: Real-time video consultations allow patients to communicate with specialists remotely.
 Ambulance Tracking System: GPS technology integrated with Google Maps API enables tracking of ambulance locations in real-time.
 
 - **Frontend:** HTML, CSS, JavaScript
